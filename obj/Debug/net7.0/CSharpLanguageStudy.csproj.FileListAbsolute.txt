@@ -1,0 +1,15 @@
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\bin\Debug\net7.0\CSharpLanguageStudy.exe
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\bin\Debug\net7.0\CSharpLanguageStudy.deps.json
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\bin\Debug\net7.0\CSharpLanguageStudy.runtimeconfig.json
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\bin\Debug\net7.0\CSharpLanguageStudy.dll
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\bin\Debug\net7.0\CSharpLanguageStudy.pdb
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\CSharpLanguageStudy.csproj.AssemblyReference.cache
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\CSharpLanguageStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\CSharpLanguageStudy.AssemblyInfoInputs.cache
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\CSharpLanguageStudy.AssemblyInfo.cs
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\CSharpLanguageStudy.csproj.CoreCompileInputs.cache
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\CSharpLanguageStudy.dll
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\refint\CSharpLanguageStudy.dll
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\CSharpLanguageStudy.pdb
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\CSharpLanguageStudy.genruntimeconfig.cache
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\obj\Debug\net7.0\ref\CSharpLanguageStudy.dll
