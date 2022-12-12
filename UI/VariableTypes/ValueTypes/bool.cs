@@ -1,12 +1,13 @@
 
-
+namespace VSCode
+{
   public class Example
 {
 
     /*the bool type  keyword is an alias for the .Net Sysytem.Boolean structure type that represent a Boolean
      value which can be either true or false
     */
-    public static void Main()
+    public void checkBoolean()
     {
 
         bool check = true;
@@ -24,6 +25,7 @@
 
     //Comparing values : CompareTo and Equals
 
+}
 }
 
 

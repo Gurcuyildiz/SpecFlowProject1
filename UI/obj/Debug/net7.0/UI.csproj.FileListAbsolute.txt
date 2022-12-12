@@ -1,0 +1,15 @@
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\bin\Debug\net7.0\UI.exe
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\bin\Debug\net7.0\UI.deps.json
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\bin\Debug\net7.0\UI.runtimeconfig.json
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\bin\Debug\net7.0\UI.dll
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\bin\Debug\net7.0\UI.pdb
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\UI.csproj.AssemblyReference.cache
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\UI.AssemblyInfoInputs.cache
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\UI.AssemblyInfo.cs
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\UI.dll
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\refint\UI.dll
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\UI.pdb
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\UI.genruntimeconfig.cache
+C:\Users\Georgia.Yildiz\Desktop\BireyselCalisma\CSharpLanguageStudy\UI\obj\Debug\net7.0\ref\UI.dll

@@ -1,17 +1,18 @@
-﻿
- using System;
+﻿// See https://aka.ms/new-console-template for more information
+using System;
 
-namespace UI
+namespace VSCode
 {
-    
-
-
- class Program
-{
-     static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+Console.WriteLine("Hello, World!");
+Example ex = new Example();
+ex.checkBoolean();
+        }
     }
 }
 
-}
+
+
